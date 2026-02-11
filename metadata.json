@@ -1,0 +1,7 @@
+{
+  "name": " SpeakFlow: AI Communication Coach final",
+  "description": "A professional AI communication coach to improve your English speaking skills, pronunciation, and confidence through real-time voice and text practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
