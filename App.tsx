@@ -92,7 +92,7 @@ const App: React.FC = () => {
 
   const [level, setLevel] = useState<UserLevel>(UserLevel.INTERMEDIATE);
   const [goal, setGoal] = useState<PracticeGoal>(PracticeGoal.DAILY);
-  const [nativeLanguage, setNativeLanguage] = useState<string>("Spanish");
+  const [nativeLanguage, setNativeLanguage] = useState<string>("Tamil");
   const [isPlayingTTS, setIsPlayingTTS] = useState(false);
   const [showConfig, setShowConfig] = useState(true);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
